@@ -1,3 +1,4 @@
 /diwan.py
 gitignore/
 diwan.py.pyarmor-patched
+__pycache__
