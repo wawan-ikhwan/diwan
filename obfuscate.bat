@@ -1,1 +1,1 @@
-pyarmor -d obfuscate diwan.py
+pyarmor obfuscate diwan.py

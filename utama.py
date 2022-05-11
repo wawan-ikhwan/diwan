@@ -1,1 +1,1 @@
-import diwan
+from dist import diwan
