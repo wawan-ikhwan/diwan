@@ -1,2 +1,2 @@
 pyarmor obfuscate diwan.py
-Xcopy /E /I .\platforms\ .\dist\pytransform\
+Xcopy /E /I .\platforms\ .\dist\pytransform\platforms
